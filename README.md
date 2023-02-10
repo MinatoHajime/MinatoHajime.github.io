@@ -1,2 +1,2 @@
-# MinatoHajime.github.io
-MinatoHajime.github.io
+Testing website template in github.io
+
